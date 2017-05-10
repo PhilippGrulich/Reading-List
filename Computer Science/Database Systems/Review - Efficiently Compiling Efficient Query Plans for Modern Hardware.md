@@ -72,3 +72,10 @@ MICROBENCHMARKS
 QUERIES
 
 OPTIMIZATION SETTINGS
+
+
+Further Links:
+Implementation of this idea in Spark 2.0:
+https://databricks.com/blog/2016/05/23/apache-spark-as-a-compiler-joining-a-billion-rows-per-second-on-a-laptop.html
+Review on Morning Paper:
+https://blog.acolyer.org/2016/05/23/efficiently-compiling-efficient-query-plans-for-modern-hardware/
