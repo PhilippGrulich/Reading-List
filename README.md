@@ -9,5 +9,5 @@ This my reading list, which covers papers, blogs, reviews from a wide range of d
     * Database Systems
     * Distributed Systems
 
-    * Computer Architecture:
+    * Computer Architecture:   
          [*What Every Programmer Should Know About Memory*](https://www.akkadia.org/drepper/cpumemory.pdf)
