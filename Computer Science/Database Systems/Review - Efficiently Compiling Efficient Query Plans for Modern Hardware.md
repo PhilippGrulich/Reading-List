@@ -90,7 +90,9 @@ Besides this simple benchmark also the code quality of monetDB and hyper is comp
 ###### CONCLUSION
 
 
+###### Strong and weak points:
 
+###### In reason history: 
 
 Further Links:
 
