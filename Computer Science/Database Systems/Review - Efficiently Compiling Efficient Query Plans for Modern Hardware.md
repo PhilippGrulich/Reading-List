@@ -1,7 +1,7 @@
 
 # ... > Hyper
 
-## Fast Serializable Multi-Version Concurrency Control for Main-Memory Database Systems: 
+## Efficiently compiling efficient query plans for modern hardware:
 
 #### _Thomas Neumann - Technische Universitat Munchen_
 
